@@ -18,8 +18,8 @@ gzip -k -f Packages
 
 # Release, Release.gpg & InRelease
 apt-ftparchive release . > Release
-gpg --default-key B7273D58819A588B132C77E416637014136D42BD -abs -o - Release > Release.gpg
-gpg --default-key B7273D58819A588B132C77E416637014136D42BD --clearsign -o - Release > InRelease
+gpg --default-key 16637014136D42BD -abs -o - Release > Release.gpg
+gpg --default-key 16637014136D42BD --clearsign -o - Release > InRelease
 
 # Commit & push
 git add -A
