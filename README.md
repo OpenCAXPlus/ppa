@@ -1,6 +1,7 @@
 # ppa
 The ppa for OpenCAXPlus
 
+Follow the tutorial [here](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html)
 ## To install from this repo
 
 ```sh
