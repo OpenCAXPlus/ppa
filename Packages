@@ -1,0 +1,15 @@
+Package: ocpsdk
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Xiaoxing Cheng
+Installed-Size: 497260
+Depends: libc6 (>= 2.34)
+Filename: ./ocpsdk_0.0.1_amd64.deb
+Size: 178533828
+MD5sum: 71bc3347b7dc3a641c9a227dd2fbb8f1
+SHA1: 19c18cdfbc8e7832ee531e7a357d266bf6003e51
+SHA256: 9aab8f165de8f56d4a07e6d20dd89eb8c0be8312f729b9d886c0361d8689065d
+Section: devel
+Priority: optional
+Description: The OpenCAXPlus SDK
+
