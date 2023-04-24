@@ -1,7 +1,7 @@
 # ppa
 The ppa for OpenCAXPlus
 
-Follow the tutorial [here](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html)
+Follow the tutorial [here](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html) and [here](https://decovar.dev/blog/2021/09/23/cmake-cpack-package-deb-apt/)
 ## To install from this repo
 
 ```sh
